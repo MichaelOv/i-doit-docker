@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased][]
 
+
+## 2023-01-24
+
+### Added
+
+-   Add support of i-doit open/pro, version `20`
+
+## 2022-09-20
+
 ### Added
 
 -   Add support of i-doit open/pro, versions `1.18.2` and `1.19`
